@@ -1,4 +1,4 @@
-# Coder Gyan colorify library
+#colorify library
 
 ### Usage
 
